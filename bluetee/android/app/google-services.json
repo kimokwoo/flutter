@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992473669757",
+    "project_id": "bluetee-87a9b",
+    "storage_bucket": "bluetee-87a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992473669757:android:29870175710ad7d4991114",
+        "android_client_info": {
+          "package_name": "com.example.yummy_chat_lecture1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992473669757-56jdlus6nqtr3balbgjmncftnl6ircct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnElVa034zS-lQqflcl2I0rlPc-gt7Pm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992473669757-56jdlus6nqtr3balbgjmncftnl6ircct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
